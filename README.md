@@ -40,10 +40,33 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Brhys9&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brhys9&layout=compact&theme=radical)](https://github.com/yourusername)
+
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brhys9&theme=radical)
+![Your GitHub Activity Bar Chart](https://github-readme-stats.vercel.app/api?username=Brhys9&hide=contribs&count_private=true&show_icons=true&theme=radical)
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/Brhys9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!--START_SECTION:waka-->
+[![Your Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brhys9&theme=radical)](https://wakatime.com/@Brhys9)
+<!--END_SECTION:waka-->
+## 💻 Tech Stack
+
+| **Languages**         | **Web Technologies**      | **Databases**        | **Frameworks**       | **Other**           |
+| ---------------------- | ------------------------- | -------------------- | -------------------- | ------------------- |
+| ![Python](icons/python.png)   | ![HTML5](icons/html5.png)   | ![MySQL](icons/mysql.png)  | ![Flask](icons/flask.png)  | ![Git](icons/git.png) |
+| ![JavaScript](icons/javascript.png) | ![CSS3](icons/css3.png) | ![MongoDB](icons/mongodb.png) | ![Spring Boot](icons/spring.png) | ![Docker](icons/docker.png) |
+| ![Java](icons/java.png)  | ![React](icons/react.png) |                        |                        |                     |
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
